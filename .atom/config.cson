@@ -1,0 +1,10 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  editor:
+    fontSize: 16
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "099484a7-1fc4-4933-9208-7fd82ed49c76"
+  github:
+    remoteFetchProtocol: "ssh"
